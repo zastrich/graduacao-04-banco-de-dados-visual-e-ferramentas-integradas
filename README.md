@@ -7,7 +7,7 @@ Construção de uma Solução No-Code para Gestão de Eventos e Beneficiários d
 Projeto executado no Airtable para demonstrar a modelagem de banco de dados visual e automações integradas.
 
 # Vídeo de demonstração (clique na imagem para assistir no youtube):
-[![Watch the video](https://img.youtube.com/vi/FbedypoRIp8/maxresdefault.jpg)](https://youtu.be/FbedypoRIp8)
+[![Watch the video](https://img.youtube.com/vi/VQq2_zLRmw4/maxresdefault.jpg)](https://youtu.be/VQq2_zLRmw4)
 
 ## 🛠️ Tecnologias e Ferramentas
 

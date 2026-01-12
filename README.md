@@ -9,7 +9,7 @@ Projeto executado no Airtable para demonstrar a modelagem de banco de dados visu
 # Vídeo de demonstração (clique na imagem para assistir no youtube):
 [![Watch the video](https://img.youtube.com/vi/FbedypoRIp8/maxresdefault.jpg)](https://youtu.be/FbedypoRIp8)
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 O projeto utilizou a ferramenta **Airtable** (No-Code) e os seguintes padrões e integrações:
 
@@ -21,7 +21,7 @@ O projeto utilizou a ferramenta **Airtable** (No-Code) e os seguintes padrões e
 | **Forms**               | Airtable Forms - formulários de entrada          |
 | **Integração de Dados** | Google Sheets - integração de dados              |
 
-### Requisitos
+## Requisitos
 - Não há requisitos específicos além de um navegador web moderno.
 
 ## Como usar a área logada da ONG
@@ -32,12 +32,12 @@ Para usar a interface criada no Airtable você deverá fazer login com um email 
 Após aceitar o convite, acesse a base de dados no link:
 [Link da Interface para Colaboradores da ONG](https://airtable.com/appYPltRo0QQiAMT0/pagiisukZcaFF0ph8)
 
-# Como me cadastrar como beneficiário (acesso público)
+## Como me cadastrar como beneficiário (acesso público)
 
 Para se cadastrar como beneficiário e participar dos eventos da ONG, acesse o formulário público no link abaixo:
 [Formulário Público para cadastro Beneficiários](https://airtable.com/appYPltRo0QQiAMT0/pagQf669kwlTMiqNf/form)
 
-# Como me inscrever em eventos (acesso público)
+## Como me inscrever em eventos (acesso público)
 
 Para se inscrever em eventos como beneficiário, acesse o formulário público no link abaixo:
 [Formulário Público para inscrição em eventos](https://airtable.com/appYPltRo0QQiAMT0/pagJwbgBRLWYwK5cc/form)
